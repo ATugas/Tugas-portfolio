@@ -45,16 +45,6 @@ Website ini dibuat dengan kombinasi teknologi berikut:
 
 ---
 
-## 📁 Struktur Folder
-portofolio/
-├── index.html # Halaman utama
-├── portfolio.html # Data proyek
-├── contact.html # Form kontak
-└── style.css # Desain dan tema dark biru
-
-
----
-
 ## 🚀 Cara Menjalankan
 1. Download atau clone repository ini  
    ```bash
